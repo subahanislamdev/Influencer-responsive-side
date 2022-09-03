@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.megamenu{
+    font-weight: 700;
+
+}
+.start-journey{
+    display: flex;
+    align-items:center;
+}
+.start-journey h1{
+    font-weight: 800;
+    font-size: 32px;
+}
+.link-button button{
+    padding: 7px 20px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+    background-color: #E02C6D;
+}
+.cemara{
+background-image: url(../image/Circle\ design.svg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: contain;
+}
+.banner{
+    display: flex;
+    justify-content: center;
+}
+.product{
+    font-weight: 700;
+    font-size: 25px;
+}
+.dolor{
+    font-size: 18px;
+    font-weight: 700;
+}
+.icon{
+color: orange;
+}
